@@ -1,0 +1,1 @@
+export { celsiusToFahrenheit } from "./celsiusToFahrenheit";
